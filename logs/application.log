@@ -1,0 +1,694 @@
+2025-01-14 18:01:11,676 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:22:40,489 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:25:56,055 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:33:52,186 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:34:52,434 [main] INFO org.testng.internal.Utils - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:34:52,557 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-01-14 18:34:52,570 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-01-14 18:34:52,573 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,574 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,575 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,577 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,577 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,578 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,578 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,579 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,580 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,581 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,582 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,582 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,583 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,583 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,585 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,587 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,588 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,588 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,593 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:34:52,593 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,594 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,594 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,595 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,596 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,597 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,597 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,598 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,598 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,604 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+Starting the application....
+2025-01-14 18:34:57,306 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:34:59,501 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@398474a2: 0 ms
+2025-01-14 18:44:41,445 [main] INFO org.testng.internal.Utils - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:44:41,553 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-01-14 18:44:41,566 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-01-14 18:44:41,569 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,570 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,572 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,573 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,574 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,574 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,575 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,575 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,576 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,576 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,577 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,577 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,578 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,578 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,582 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,582 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,583 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,583 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,589 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,590 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:44:41,590 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,590 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,591 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,592 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:44:41,595 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,596 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,596 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,597 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,602 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+Starting the application....
+2025-01-14 18:44:49,253 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:44:49,807 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1f443fae: 220 ms
+2025-01-14 18:44:49,807 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ba6fe6: 0 ms
+2025-01-14 18:54:00,663 [main] INFO org.testng.internal.Utils - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:54:00,752 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-01-14 18:54:00,762 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-01-14 18:54:00,764 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,765 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:54:00,767 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,767 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,768 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,768 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,769 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,770 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,770 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,771 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,771 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,771 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,772 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,772 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,775 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,776 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,777 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,788 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,793 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:54:00,794 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:54:00,794 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,794 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,796 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:54:00,797 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,799 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,799 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,800 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,800 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,805 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+Starting the application....
+2025-01-14 18:54:08,436 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-14 18:54:09,100 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@806996: 5 ms
+2025-01-14 18:54:09,100 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@78b612c6: 0 ms
+2025-01-15 15:47:01,003 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+2025-01-15 15:59:01,143 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-15 16:03:15,883 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+2025-01-15 17:03:24,173 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+2025-01-15 17:14:48,845 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-15 17:16:44,832 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+2025-01-15 17:21:27,011 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+2025-01-15 19:12:34,605 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Addition of element is correct.
+2025-01-15 19:17:33,693 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is incorrect.
+2025-01-15 19:19:01,750 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is incorrect.
+2025-01-15 19:35:53,966 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is incorrect.
+2025-01-15 19:38:29,542 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is incorrect.
+2025-01-15 19:40:50,427 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is correct.
+2025-01-15 21:00:46,342 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+2025-01-15 21:05:25,342 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-15 21:06:33,938 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+2025-01-15 21:06:49,779 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-15 21:11:13,305 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-15 21:12:56,345 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-16 16:16:12,271 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+2025-01-16 20:15:52,728 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+2025-01-16 20:17:45,217 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Broken image validation is correct.
+2025-01-16 20:27:54,102 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Broken image validation is correct.
+2025-01-16 20:42:17,729 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Broken image validation is correct.
+2025-01-17 16:15:00,883 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Initiating HomePage Constructor.
+Initiating HomePage Constructor.
+Initiating HomePage Constructor.
+Initiating HomePage Constructor.
+2025-01-17 16:18:41,678 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:21:23,295 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+2025-01-17 16:21:38,730 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+2025-01-17 16:21:57,841 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+2025-01-17 16:22:27,920 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:25:20,430 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Broken image validation is correct.
+2025-01-17 16:25:35,426 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Broken image validation is correct.
+2025-01-17 16:26:02,034 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+2025-01-17 16:26:16,009 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+2025-01-17 16:26:34,793 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:27:46,668 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+2025-01-17 16:28:03,889 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Addition of element is correct.
+2025-01-17 16:28:17,670 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is correct.
+2025-01-17 16:30:50,097 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:33:41,604 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:42:35,819 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Addition of element is correct.
+2025-01-17 16:42:51,693 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is correct.
+2025-01-17 16:43:24,931 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:45:37,993 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 16:51:11,193 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Addition of element is correct.
+Shutting down selenium driver.
+2025-01-17 16:51:39,862 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Shutting down selenium driver.
+Initiating HomePage Constructor.
+2025-01-17 16:52:38,803 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Shutting down selenium driver.
+Initiating HomePage Constructor.
+2025-01-17 16:58:53,409 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Deletion of element is correct.
+2025-01-17 16:59:22,366 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Initiating HomePage Constructor.
+2025-01-17 17:09:18,051 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+2025-01-17 17:09:36,639 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Deletion of element is correct.
+Getting back home.
+2025-01-17 17:11:37,983 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+Getting back home.
+2025-01-17 17:12:02,909 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Broken image validation is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Deletion of element is correct.
+Getting back home.
+2025-01-17 17:14:10,945 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Page Header Is Correct.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Broken image validation is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Deletion of element is correct.
+Getting back home.
+2025-01-17 17:24:44,859 [main] INFO org.testng.internal.Utils - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-17 17:24:44,969 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-01-17 17:24:44,981 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-01-17 17:24:44,982 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,983 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:44,983 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,984 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,984 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,985 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,985 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,986 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,986 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,987 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,987 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,988 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,988 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,988 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,992 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,993 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:44,994 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,994 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,998 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,998 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,999 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,000 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,001 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,001 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,001 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,002 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,002 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,002 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,003 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,003 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,004 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,004 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,005 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,005 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,006 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,007 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,008 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,009 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,012 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,013 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,015 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,016 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,016 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,016 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,017 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,017 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,018 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,018 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,019 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,019 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,021 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,021 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,022 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,022 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,023 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,023 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,024 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,025 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,027 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,027 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,028 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,029 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,030 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,030 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,031 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,031 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,031 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,031 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,032 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,032 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,032 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,033 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,033 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,033 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,034 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,034 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,035 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,036 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,039 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,040 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,041 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,041 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,042 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,042 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,042 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,042 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,043 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,044 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,044 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,044 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,045 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,045 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,045 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,046 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,047 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,048 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,049 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,049 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,056 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,063 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-01-17 17:24:45,065 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,065 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,068 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-01-17 17:24:45,069 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,094 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+Starting the application....
+2025-01-17 17:24:53,940 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Deletion of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Broken image validation is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Page Title Is Correct.
+Initiating HomePage Constructor.
+Page Header Is Correct.
+2025-01-17 17:25:13,342 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@345d053b: 0 ms

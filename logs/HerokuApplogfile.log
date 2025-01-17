@@ -1,0 +1,694 @@
+2025-01-14 18:01:11,676 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-14 18:01:12,514 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:01:19,612 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:01:19,622 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:22:40,489 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-14 18:22:41,025 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:22:45,001 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:22:47,205 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:25:56,055 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-14 18:25:56,557 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:26:02,739 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:26:02,754 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:33:52,186 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-14 18:33:52,798 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:33:59,470 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:33:59,484 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:34:52,434 - org.testng.internal.Utils -INFO - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:34:52,557 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-01-14 18:34:52,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-01-14 18:34:52,573 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,574 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,578 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,578 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,579 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,581 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,583 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,583 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,585 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:34:52,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,594 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,594 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,595 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:34:52,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:34:52,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:34:52,604 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-14 18:34:53,185 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:34:57,306 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-01-14 18:34:57,356 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:34:59,255 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:34:59,501 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@398474a2: 0 ms
+2025-01-14 18:44:41,445 - org.testng.internal.Utils -INFO - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:44:41,553 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-01-14 18:44:41,566 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-01-14 18:44:41,569 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,572 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,573 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,574 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,574 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,578 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,578 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,583 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,583 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,589 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,590 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:44:41,590 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,590 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,591 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:44:41,595 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:44:41,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:44:41,602 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-14 18:44:42,165 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:44:49,253 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-01-14 18:44:49,305 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:44:49,319 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:44:49,807 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1f443fae: 220 ms
+2025-01-14 18:44:49,807 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ba6fe6: 0 ms
+2025-01-14 18:54:00,663 - org.testng.internal.Utils -INFO - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-14 18:54:00,752 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-01-14 18:54:00,762 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-01-14 18:54:00,764 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:54:00,767 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,767 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,768 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,768 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,769 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,770 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,770 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,771 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,771 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,771 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,772 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,772 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,775 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,776 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,777 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,788 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,793 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:54:00,794 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-14 18:54:00,794 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,794 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-14 18:54:00,797 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,799 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,799 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,800 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-14 18:54:00,800 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-14 18:54:00,805 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-14 18:54:01,255 - HerokuApp Automation -INFO - Starting the application....
+2025-01-14 18:54:08,436 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-01-14 18:54:08,468 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-14 18:54:08,478 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-14 18:54:09,100 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@806996: 5 ms
+2025-01-14 18:54:09,100 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@78b612c6: 0 ms
+2025-01-15 15:47:01,003 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 15:47:01,481 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 15:47:07,047 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 15:47:07,083 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-15 15:59:01,143 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 15:59:01,712 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 15:59:06,046 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 16:03:15,883 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 16:03:16,424 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 16:03:22,242 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 16:03:22,279 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-15 17:03:24,173 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 17:03:24,709 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 17:03:30,903 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 17:03:31,338 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-15 17:14:48,845 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 17:14:49,297 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 17:14:55,274 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 17:16:44,832 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 17:16:45,270 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 17:16:51,209 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 17:16:51,659 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-15 17:21:27,011 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 17:21:27,438 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 17:21:33,431 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 17:21:33,902 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-15 19:12:34,605 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:12:35,048 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:12:41,094 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:12:43,655 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-15 19:17:33,693 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:17:34,131 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:17:39,758 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:17:52,366 - HerokuApp Automation -INFO - Deletion of element is incorrect.
+2025-01-15 19:19:01,750 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:19:02,187 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:19:08,052 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:19:20,667 - HerokuApp Automation -INFO - Deletion of element is incorrect.
+2025-01-15 19:35:53,966 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:35:54,436 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:36:00,434 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:36:13,095 - HerokuApp Automation -INFO - Deletion of element is incorrect.
+2025-01-15 19:38:29,542 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:38:29,985 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:38:35,845 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:38:58,580 - HerokuApp Automation -INFO - Deletion of element is incorrect.
+2025-01-15 19:40:50,427 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 19:40:50,879 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 19:40:57,017 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 19:41:09,653 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-15 21:00:46,342 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:00:46,845 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:00:51,207 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 21:00:54,484 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-15 21:05:25,342 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:05:25,801 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:05:31,664 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 21:06:33,938 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:06:34,381 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:06:40,376 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 21:06:41,490 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-15 21:06:49,779 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:06:50,212 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:06:53,797 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 21:11:13,305 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:11:13,743 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:11:19,571 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-15 21:12:56,345 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-15 21:12:56,772 - HerokuApp Automation -INFO - Starting the application....
+2025-01-15 21:13:02,647 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-16 16:16:12,271 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-16 16:16:12,999 - HerokuApp Automation -INFO - Starting the application....
+2025-01-16 16:16:19,208 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-16 16:16:20,380 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-16 20:15:52,728 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-16 20:15:53,987 - HerokuApp Automation -INFO - Starting the application....
+2025-01-16 20:17:45,217 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-16 20:17:45,781 - HerokuApp Automation -INFO - Starting the application....
+2025-01-16 20:17:51,964 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-16 20:17:52,872 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-16 20:27:54,102 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-16 20:27:54,623 - HerokuApp Automation -INFO - Starting the application....
+2025-01-16 20:28:01,021 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-16 20:28:01,953 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-16 20:42:17,729 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-16 20:42:18,285 - HerokuApp Automation -INFO - Starting the application....
+2025-01-16 20:42:24,614 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-16 20:42:25,561 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 16:15:00,883 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:15:01,538 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:15:07,934 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:08,345 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-17 16:15:08,353 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:08,367 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-17 16:15:08,376 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:08,914 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 16:15:08,918 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:19,062 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:29,130 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:15:39,169 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:18:41,678 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:18:42,182 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:18:48,281 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:18:48,737 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 16:18:48,741 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:21:23,295 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:21:23,741 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:21:29,817 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:21:30,273 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-17 16:21:38,730 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:21:39,219 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:21:46,334 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:21:46,906 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 16:21:57,841 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:21:58,333 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:22:02,209 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:22:04,909 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-17 16:22:27,920 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:22:28,357 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:22:34,825 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:22:35,293 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 16:22:35,298 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:25:20,430 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:25:20,893 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:25:26,934 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:25:27,700 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 16:25:35,426 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:25:35,857 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:25:41,692 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:25:42,405 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 16:26:02,034 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:26:02,475 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:26:08,512 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:26:08,543 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-17 16:26:08,549 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:26:08,557 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-17 16:26:16,009 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:26:16,449 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:26:22,466 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:26:23,630 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-17 16:26:34,793 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:26:35,245 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:26:51,591 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:26:52,093 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:26:52,098 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:27:46,668 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:27:47,185 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:27:54,055 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:27:54,505 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:28:03,889 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:28:04,330 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:28:10,286 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:28:11,962 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 16:28:17,670 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:28:18,104 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:28:23,646 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:28:34,261 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 16:30:50,097 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:30:50,533 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:30:56,507 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:30:56,979 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:30:56,983 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:33:41,604 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:33:42,144 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:33:46,656 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:33:47,096 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:33:47,105 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:42:35,819 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:42:36,273 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:42:43,274 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:42:44,845 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 16:42:51,693 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:42:52,142 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:42:57,487 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:43:08,101 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 16:43:24,931 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:43:25,453 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:43:31,590 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:43:32,143 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:43:32,147 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:45:37,993 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:45:38,463 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:45:44,748 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:45:45,211 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:45:45,215 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:51:11,193 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:51:11,638 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:51:18,566 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:51:20,126 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 16:51:20,128 - HerokuApp Automation -INFO - Shutting down selenium driver.
+2025-01-17 16:51:39,862 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:51:40,299 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:51:45,096 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:51:45,523 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:51:45,526 - HerokuApp Automation -INFO - Shutting down selenium driver.
+2025-01-17 16:51:45,685 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:52:38,803 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:52:39,257 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:52:44,616 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:52:45,052 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:52:45,055 - HerokuApp Automation -INFO - Shutting down selenium driver.
+2025-01-17 16:52:45,229 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:58:53,409 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:58:53,855 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:58:57,305 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:59:10,485 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 16:59:22,366 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 16:59:22,818 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 16:59:28,619 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 16:59:29,067 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 16:59:29,181 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:09:18,051 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 17:09:18,495 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:09:24,653 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:09:26,212 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 17:09:26,215 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:09:36,639 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 17:09:37,083 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:09:42,956 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:09:43,411 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 17:09:43,415 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:09:43,758 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:09:45,282 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 17:09:45,284 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:09:45,628 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:09:56,177 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 17:09:56,179 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:11:37,983 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 17:11:38,433 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:11:44,766 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:11:45,220 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 17:11:45,223 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:11:45,589 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:11:46,000 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-17 17:11:46,001 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:11:46,352 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:11:46,742 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-17 17:11:46,747 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:02,909 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 17:12:03,371 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:12:08,822 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:08,853 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-17 17:12:08,856 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:08,867 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-17 17:12:08,872 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:09,334 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 17:12:09,335 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:09,667 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:10,087 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-17 17:12:10,088 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:10,415 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:10,814 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-17 17:12:10,815 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:11,152 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:12,217 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-17 17:12:12,218 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:12,554 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:13,261 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 17:12:13,262 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:13,587 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:14,013 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 17:12:14,014 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:14,351 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:15,856 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 17:12:15,857 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:12:16,189 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:12:26,707 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 17:12:26,708 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:10,945 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-17 17:14:11,434 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:14:17,195 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:17,228 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-17 17:14:17,233 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:17,246 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-17 17:14:17,251 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:17,713 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 17:14:17,714 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:18,099 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:18,563 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-17 17:14:18,564 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:18,904 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:19,334 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-17 17:14:19,335 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:19,682 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:20,815 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-17 17:14:20,816 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:21,167 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:21,884 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 17:14:21,885 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:22,244 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:22,681 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 17:14:22,686 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:23,046 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:24,578 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 17:14:24,579 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:14:24,930 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:14:35,497 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 17:14:35,498 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:44,859 - org.testng.internal.Utils -INFO - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-17 17:24:44,969 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-01-17 17:24:44,981 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-01-17 17:24:44,982 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,983 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:44,983 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,984 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,984 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,985 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,985 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,986 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,986 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,987 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,987 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,988 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,988 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,988 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,992 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,993 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:44,994 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,994 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,998 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:44,998 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:44,999 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,000 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,001 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,001 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,001 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,002 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,002 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,002 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,003 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,003 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,004 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,004 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,005 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,005 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,006 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,007 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,008 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,009 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,012 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,013 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,015 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,016 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,016 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,016 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,017 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,017 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,018 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,018 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,019 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,019 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,021 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,021 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,022 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,022 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,023 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,023 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,024 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,025 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,027 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,027 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,028 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,029 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,030 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,030 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,031 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,031 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,031 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,031 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,032 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,032 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,032 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,033 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,033 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,033 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,034 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,034 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,035 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,036 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,039 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,040 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,041 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,041 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,042 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,042 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,042 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,042 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,043 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,044 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,044 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,044 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,045 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,045 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,045 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,046 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,047 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,048 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,049 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,049 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,053 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,054 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,054 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,054 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,056 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,063 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-01-17 17:24:45,065 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-17 17:24:45,065 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-17 17:24:45,068 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-01-17 17:24:45,069 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-17 17:24:45,094 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-17 17:24:45,571 - HerokuApp Automation -INFO - Starting the application....
+2025-01-17 17:24:53,940 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-01-17 17:24:53,974 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:24:54,398 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-17 17:24:54,421 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:54,763 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:24:55,197 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-17 17:24:55,198 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:55,543 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:24:55,954 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-17 17:24:55,956 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:56,308 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:24:56,748 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-17 17:24:56,753 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:57,098 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:24:58,614 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-17 17:24:58,615 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:24:58,961 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:25:09,528 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-17 17:25:09,529 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:25:09,881 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:25:10,978 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-17 17:25:10,979 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:25:11,338 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:25:12,062 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-17 17:25:12,063 - HerokuApp Automation -INFO - Getting back home.
+2025-01-17 17:25:12,408 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:25:12,419 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-17 17:25:12,425 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-17 17:25:12,446 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-17 17:25:13,342 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@345d053b: 0 ms

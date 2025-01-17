@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HerokuApp Test Suite">
+	<listeners>
+		<listener class-name="herokuApp.util.Reporting" />
+	</listeners>
+	<test verbose="2" preserve-order="true" name="The-Heroku-App-Selenium/src/test/java/herokuApp/testcases">
+		<classes>
+			<class name="herokuApp.testcases.HerokuAppABTestingPageTest">
+				<methods>
+					<include name="verifyABTestingPageURL"/>
+					<include name="verifyABTestingPageHeader"/>
+					<include name="verifyABTestingPageMessage"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppAddRemoveElementsPageTest">
+				<methods>
+					<include name="verifyAddRemoveElementsPageHeader"/>
+					<include name="verifyElementAddition"/>
+					<include name="verifyElementDeletion"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppBasicAuthPageTest">
+				<methods>
+					<include name="verifyLogin"/>
+					<include name="verifyCancelLogin"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppBrokenImagesPageTest">
+				<methods>
+					<include name="verifyIfImageIsBroken"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppHomePageTest">
+				<methods>
+					<include name="verifyTitle"/>
+					<include name="verifyHeader"/>
+					<include name="landingPage"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
