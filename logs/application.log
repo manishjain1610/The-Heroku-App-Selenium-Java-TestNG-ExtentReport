@@ -692,3 +692,72 @@ Page Title Is Correct.
 Initiating HomePage Constructor.
 Page Header Is Correct.
 2025-01-17 17:25:13,342 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@345d053b: 0 ms
+2025-01-18 17:36:10,072 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 17:37:09,410 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 17:44:12,148 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 18:10:21,672 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 18:22:46,786 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 18:27:55,232 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+2025-01-18 18:48:31,283 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-18 18:48:59,236 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-18 18:56:38,862 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Check Box validation passed.
+Getting back home.
+2025-01-18 19:14:23,545 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-18 19:22:02,938 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Context Menu validation passed.
+Getting back home.
+2025-01-18 19:36:42,556 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Digest Auth Page login is correct.
+Getting back home.
