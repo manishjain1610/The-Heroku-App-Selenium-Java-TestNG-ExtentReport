@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.interactions.Actions;
-import org.testng.Assert;
 
 public class HerokuAppContextMenuPage extends HerokuAppTestBase {
 

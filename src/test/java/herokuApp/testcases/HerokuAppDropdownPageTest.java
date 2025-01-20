@@ -7,28 +7,27 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import herokuApp.base.HerokuAppTestBase;
 import herokuApp.pages.HerokuAppHomePage;
-import herokuApp.pages.HerokuAppContextMenuPage;
+import herokuApp.pages.HerokuAppDropdownPage;
 
-public class HerokuAppContextMenuPageTest extends HerokuAppTestBase {
+public class HerokuAppDropdownPageTest extends HerokuAppTestBase{
     HerokuAppHomePage herokuAppHomePage;
-    HerokuAppContextMenuPage herokuAppContextMenuPage;
+    HerokuAppDropdownPage herokuAppDropdownPage;
 
     @BeforeMethod
     public void set(){
         herokuAppHomePage = new HerokuAppHomePage();
         logger.info("Initiating HomePage Constructor.");
-        herokuAppHomePage.gotoContextMenuPage();
-        herokuAppContextMenuPage = new HerokuAppContextMenuPage();
+        herokuAppHomePage.gotoDropDownPage();
+        herokuAppDropdownPage = new HerokuAppDropdownPage();
     }
 
     @Test
-    public void verifyAlertForContextMenu() {
+    public void verifyAllButtonsPresent() {
         try {
-            Assert.assertTrue(herokuAppContextMenuPage.validateAlertForContextMenu());
-            logger.info("Context Menu validation passed.");
-        }
-        catch (Exception e) {
-            logger.info("Context Menu validation failed.");
+            Assert.assertTrue(herokuAppDropdownPage.validateDropdownOptions());
+            logger.info("Dropdown validation passed.");
+        } catch (Exception e) {
+            logger.info("Dropdown validation failed.");
             throw new RuntimeException(e);
         }
     }
@@ -38,4 +37,5 @@ public class HerokuAppContextMenuPageTest extends HerokuAppTestBase {
         logger.info("Getting back home.");
         herokuAppHomePage.gotoHomePage();
     }
+
 }

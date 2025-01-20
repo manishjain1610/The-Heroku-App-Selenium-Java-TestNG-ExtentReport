@@ -7,28 +7,28 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import herokuApp.base.HerokuAppTestBase;
 import herokuApp.pages.HerokuAppHomePage;
-import herokuApp.pages.HerokuAppContextMenuPage;
+import herokuApp.pages.HerokuAppDragAndDropPage;
 
-public class HerokuAppContextMenuPageTest extends HerokuAppTestBase {
+public class HerokuAppDragAndDropPageTest extends HerokuAppTestBase {
+
     HerokuAppHomePage herokuAppHomePage;
-    HerokuAppContextMenuPage herokuAppContextMenuPage;
+    HerokuAppDragAndDropPage herokuAppDragAndDropPage;
 
     @BeforeMethod
     public void set(){
         herokuAppHomePage = new HerokuAppHomePage();
         logger.info("Initiating HomePage Constructor.");
-        herokuAppHomePage.gotoContextMenuPage();
-        herokuAppContextMenuPage = new HerokuAppContextMenuPage();
+        herokuAppHomePage.gotoDragAndDropElementsPage();
+        herokuAppDragAndDropPage = new HerokuAppDragAndDropPage();
     }
 
     @Test
-    public void verifyAlertForContextMenu() {
+    public void verifyAllButtonsPresent() {
         try {
-            Assert.assertTrue(herokuAppContextMenuPage.validateAlertForContextMenu());
-            logger.info("Context Menu validation passed.");
-        }
-        catch (Exception e) {
-            logger.info("Context Menu validation failed.");
+            Assert.assertTrue(herokuAppDragAndDropPage.validateDragAndDrop());
+            logger.info("Drag and drop validation passed.");
+        } catch (Exception e) {
+            logger.info("Drag and drop validation failed.");
             throw new RuntimeException(e);
         }
     }

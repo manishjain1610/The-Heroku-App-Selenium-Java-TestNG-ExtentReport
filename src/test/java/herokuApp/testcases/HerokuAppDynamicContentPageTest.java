@@ -7,28 +7,27 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import herokuApp.base.HerokuAppTestBase;
 import herokuApp.pages.HerokuAppHomePage;
-import herokuApp.pages.HerokuAppContextMenuPage;
+import herokuApp.pages.HerokuAppDynamicContentPage;
 
-public class HerokuAppContextMenuPageTest extends HerokuAppTestBase {
+public class HerokuAppDynamicContentPageTest extends HerokuAppTestBase {
     HerokuAppHomePage herokuAppHomePage;
-    HerokuAppContextMenuPage herokuAppContextMenuPage;
+    HerokuAppDynamicContentPage herokuAppDynamicContentPage;
 
     @BeforeMethod
     public void set(){
         herokuAppHomePage = new HerokuAppHomePage();
         logger.info("Initiating HomePage Constructor.");
-        herokuAppHomePage.gotoContextMenuPage();
-        herokuAppContextMenuPage = new HerokuAppContextMenuPage();
+        herokuAppHomePage.gotoDynamicContentPage();
+        herokuAppDynamicContentPage = new HerokuAppDynamicContentPage();
     }
 
     @Test
-    public void verifyAlertForContextMenu() {
+    public void verifyDynamicContent() {
         try {
-            Assert.assertTrue(herokuAppContextMenuPage.validateAlertForContextMenu());
-            logger.info("Context Menu validation passed.");
-        }
-        catch (Exception e) {
-            logger.info("Context Menu validation failed.");
+            Assert.assertTrue(herokuAppDynamicContentPage.validateDynamicContent());
+            logger.info("Dynamic content validation passed.");
+        } catch (Exception e) {
+            logger.info("Dynamic content validation failed.");
             throw new RuntimeException(e);
         }
     }
