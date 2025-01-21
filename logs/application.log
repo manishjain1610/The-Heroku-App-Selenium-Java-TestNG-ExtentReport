@@ -905,3 +905,254 @@ Initiating HomePage Constructor.
 Content did not change.
 Dynamic content validation passed.
 Getting back home.
+2025-01-21 18:29:24,047 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 18:38:25,031 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic control validation passed.
+Getting back home.
+2025-01-21 18:50:11,580 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 18:54:07,000 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 18:55:57,944 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 18:57:14,994 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic control validation passed.
+Getting back home.
+2025-01-21 18:58:05,713 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic control validation passed.
+Getting back home.
+2025-01-21 18:58:48,515 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 18:59:52,898 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 19:00:44,407 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic control validation passed.
+Getting back home.
+2025-01-21 19:01:48,730 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic controls validation failed.
+Getting back home.
+2025-01-21 20:23:37,209 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic Loading validation failed.
+Getting back home.
+2025-01-21 20:24:20,112 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-21 20:25:29,208 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-21 20:26:35,339 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic Loading validation passed.
+Getting back home.
+2025-01-21 20:33:48,422 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Dynamic Loading validation passed.
+Getting back home.
+2025-01-21 20:57:20,826 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Entry Ad validation failed.
+Getting back home.
+2025-01-21 20:58:19,805 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Modal window text is - It's commonly used to encourage a user to take an action (e.g., give their e-mail address to sign up for something or disable their ad blocker).
+Entry Ad validation passed.
+Getting back home.
+2025-01-21 21:15:30,770 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:17:12,547 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Modal window text is - It's commonly used to encourage a user to take an action (e.g., give their e-mail address to sign up for something).
+Getting back home.
+2025-01-21 21:19:20,133 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:20:24,102 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:24:13,933 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:26:41,765 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:27:20,602 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:28:25,780 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:35:03,775 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:36:42,084 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:40:38,566 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:42:32,992 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:44:07,212 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:46:00,827 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Modal window text is - It's commonly used to encourage a user to take an action (e.g., give their e-mail address to sign up for something).
+Getting back home.
+2025-01-21 21:47:11,414 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:48:35,182 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:50:36,377 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation failed.
+Getting back home.
+2025-01-21 21:52:15,636 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Exit intent validation passed.
+Getting back home.
