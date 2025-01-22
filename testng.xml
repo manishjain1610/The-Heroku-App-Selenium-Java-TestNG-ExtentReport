@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="HerokuApp Test Suite">
+<suite name="All Test Suite">
 	<listeners>
 		<listener class-name="herokuApp.util.Reporting" />
 	</listeners>
-	<test verbose="2" preserve-order="true" name="The-Heroku-App-Selenium/src/test/java/herokuApp/testcases">
+	<test verbose="2" preserve-order="true" name="D:/Manish/IntelliJProjects/tests/The-Heroku-App-Selenium">
 		<classes>
 			<class name="herokuApp.testcases.HerokuAppABTestingPageTest">
 				<methods>
@@ -29,6 +29,82 @@
 			<class name="herokuApp.testcases.HerokuAppBrokenImagesPageTest">
 				<methods>
 					<include name="verifyIfImageIsBroken"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppChallengingDOMPageTest">
+				<methods>
+					<include name="verifyCanvasElement"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppCheckBoxesPageTest">
+				<methods>
+					<include name="verifyCheckBoxesStatus"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppContextMenuPageTest">
+				<methods>
+					<include name="verifyAlertForContextMenu"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDigestAuthenticationPageTest">
+				<methods>
+					<include name="verifyDigestAuthLogin"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDisappearingElementsPageTest">
+				<methods>
+					<include name="verifyAllButtonsPresent"/>
+					<include name="verifyGalleryButtonPresence"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDragAndDropPageTest">
+				<methods>
+					<include name="verifyAllButtonsPresent"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDropdownPageTest">
+				<methods>
+					<include name="verifyAllButtonsPresent"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDynamicContentPageTest">
+				<methods>
+					<include name="verifyDynamicContent"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDynamicControlsPageTest">
+				<methods>
+					<include name="verifyDynamicControls"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppDynamicLoadingPageTest">
+				<methods>
+					<include name="verifyDynamicLoadingElements"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppEntryAdPageTest">
+				<methods>
+					<include name="verifyEntryAd"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppExitIntentPageTest">
+				<methods>
+					<include name="verifyExitIntent"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppFileDownloadPageTest">
+				<methods>
+					<include name="verifyFileDownload"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppFileUploadPageTest">
+				<methods>
+					<include name="verifyFileUpload"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppFloatingMenuPageTest">
+				<methods>
+					<include name="verifyFloatingMenu"/>
 				</methods>
 			</class>
 			<class name="herokuApp.testcases.HerokuAppHomePageTest">

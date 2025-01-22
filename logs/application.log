@@ -1156,3 +1156,220 @@ Starting the application....
 Initiating HomePage Constructor.
 Exit intent validation passed.
 Getting back home.
+2025-01-22 16:11:42,205 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation failed.
+Getting back home.
+2025-01-22 16:17:06,321 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 16:21:31,380 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 16:28:23,859 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 16:37:29,251 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 16:43:06,312 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 16:54:29,794 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:05:43,927 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:09:08,303 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:14:47,057 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:22:50,920 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:24:02,283 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 17:37:53,008 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File successfully downloaded sodapdf-converted.pdf
+File successfully downloaded logo.png
+File download validation passed.
+Getting back home.
+2025-01-22 18:23:09,307 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File download validation passed.
+Getting back home.
+2025-01-22 18:36:12,723 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 18:41:38,898 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:07:29,795 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:08:45,518 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:10:44,214 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:12:14,688 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Floating menu validation failed.
+Getting back home.
+2025-01-22 21:13:29,317 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:20,450 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:20,466 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-22 21:35:20,847 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2025-01-22 21:35:21,260 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2289aca5: 0 ms
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:35:46,940 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:35:46,956 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-22 21:35:47,246 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-01-22 21:35:47,565 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2289aca5: 0 ms
+2025-01-22 21:36:24,874 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:37:35,780 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2025-01-22 21:37:35,796 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,796 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,796 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,812 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,821 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,821 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,821 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,821 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-22 21:37:35,828 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+Starting the application....
+2025-01-22 21:37:46,481 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-22 21:37:50,427 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@54067fdc: 0 ms
