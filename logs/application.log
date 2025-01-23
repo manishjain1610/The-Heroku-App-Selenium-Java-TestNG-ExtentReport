@@ -1373,3 +1373,98 @@ Starting the application....
 Initiating HomePage Constructor.
 Getting back home.
 2025-01-22 21:37:50,427 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@54067fdc: 0 ms
+2025-01-23 16:51:57,752 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Forgot password validation passed.
+Getting back home.
+2025-01-23 17:22:39,920 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Form authentication validation passed.
+Getting back home.
+2025-01-23 17:51:46,721 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation failed.
+Getting back home.
+2025-01-23 17:54:52,658 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation failed.
+Getting back home.
+2025-01-23 18:04:57,089 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation failed.
+Getting back home.
+2025-01-23 18:14:59,120 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation failed.
+Getting back home.
+2025-01-23 18:33:06,467 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation failed.
+Getting back home.
+2025-01-23 18:37:47,768 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation passed.
+Getting back home.
+2025-01-23 18:47:40,841 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+iFrame validation passed.
+Getting back home.
+2025-01-23 18:48:02,188 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Nested frame validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+iFrame validation passed.
+Getting back home.
+2025-01-23 20:35:29,221 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Geolocation validation failed.
+Getting back home.
+2025-01-23 20:36:02,081 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Geolocation validation passed.
+Getting back home.
+2025-01-23 20:37:21,819 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Latitude is 28.6139326 and longitude is 77.3295596
+Geolocation validation passed.
+Getting back home.
