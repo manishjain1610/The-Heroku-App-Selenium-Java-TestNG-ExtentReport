@@ -21,15 +21,15 @@ Write a simple automation suite to automate testing for HerokuApp sample website
 
 [] Project layout:
 
-  'src/main/java/herokUApp/pages/base/HerokuAppTestBase.java' is the Base class that initiates logger, driver, sets capabilities, and does the teardown.
+    'src/main/java/herokUApp/pages/base/HerokuAppTestBase.java' is the Base class that initiates logger, driver, sets capabilities, and does the teardown.
   
-  'src/main/java/herokUApp/pages' package holds all classes related to the application / URL pages
+    'src/main/java/herokUApp/pages' package holds all classes related to the application / URL pages
   
-  'src/main/java/herokUApp/config' package holds all configuration files.
+    'src/main/java/herokUApp/config' package holds all configuration files.
   
-  'src/main/java/herokUApp/util' package holds all utilities classes and implements extent reports.
+    'src/main/java/herokUApp/util' package holds all utilities classes and implements extent reports.
 
-  'src/test/java/herokUApp/testcases' package holds the TestNG tests to interact with Chrome browser.
+    'src/test/java/herokUApp/testcases' package holds the TestNG tests to interact with Chrome browser.
 
 The output logs are available in logs directory.
 
@@ -40,7 +40,7 @@ The output logs are available in logs directory.
 
 [] To execute the test:
 
-  From IntelliJ IDE, you can execute a single class or a single test case from Right-click on classes/Tests from 'testcases' package and select 'Run <test name>'.
+    From IntelliJ IDE, you can execute a single class or a single test case from Right-click on classes/Tests from 'testcases' package and select 'Run <test name>'.
   
-  To generate extent reports, right click on testng.xml and select Run testng.xml.
+    To generate extent reports, right click on testng.xml and select Run testng.xml.
   
