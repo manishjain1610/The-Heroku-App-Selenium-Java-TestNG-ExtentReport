@@ -43,4 +43,6 @@ The output logs are available in logs directory.
     From IntelliJ IDE, you can execute a single class or a single test case from Right-click on classes/Tests from 'testcases' package and select 'Run <test name>'.
   
     To generate extent reports, right click on testng.xml and select Run testng.xml.
+
+    To execute tests from command line. Change the directory in the batch file, to local directory where project is installed, and execute "run.bat" file.
   
