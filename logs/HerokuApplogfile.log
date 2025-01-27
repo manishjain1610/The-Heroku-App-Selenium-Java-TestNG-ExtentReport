@@ -1581,3 +1581,455 @@
 2025-01-24 19:05:23,309 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
 2025-01-24 19:05:26,028 - HerokuApp Automation -INFO - Inputs validation passed.
 2025-01-24 19:05:26,032 - HerokuApp Automation -INFO - Getting back home.
+2025-01-25 22:02:53,356 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-25 22:02:54,247 - HerokuApp Automation -INFO - Starting the application....
+2025-01-25 22:03:00,914 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-25 22:03:01,377 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-25 22:03:01,381 - HerokuApp Automation -INFO - Getting back home.
+2025-01-25 22:03:40,681 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-25 22:03:41,125 - HerokuApp Automation -INFO - Starting the application....
+2025-01-25 22:03:45,932 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-25 22:03:47,158 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-25 22:03:47,163 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:04:06,646 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:04:07,652 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:04:14,485 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:04:17,963 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 19:04:17,968 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:14:30,612 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:14:31,060 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:14:36,090 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:14:44,232 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 19:14:44,236 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:19:48,620 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:19:49,053 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:19:54,053 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:20:02,199 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 19:20:02,217 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:21:30,748 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:21:31,319 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:21:36,312 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:21:49,756 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:21:49,773 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:25:41,581 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:25:42,023 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:25:46,996 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:26:01,951 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:26:01,959 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:27:20,030 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:27:20,470 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:27:24,841 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:27:37,633 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:27:37,641 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:29:31,090 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:29:31,533 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:29:36,465 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:29:55,774 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:29:55,781 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:32:38,794 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:32:39,233 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:32:44,353 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:33:03,603 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:33:03,621 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:33:51,690 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:33:52,169 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:33:56,705 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:34:03,594 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 19:34:03,600 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:37:13,806 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:37:14,245 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:37:19,013 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:37:32,107 - HerokuApp Automation -INFO - JQuery UI Menu validation failed.
+2025-01-26 19:37:32,114 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:45:21,226 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:45:21,661 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:45:24,347 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:45:29,180 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:49:16,778 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:49:17,206 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:49:22,046 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:49:24,937 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:50:54,738 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:50:55,202 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:51:00,044 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:51:04,945 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:52:10,677 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:52:11,107 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:52:20,336 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:52:29,501 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 19:56:30,987 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 19:56:31,428 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 19:56:36,342 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 19:56:59,262 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 20:11:51,563 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 20:11:52,006 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 20:11:56,928 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 20:12:00,727 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 20:15:50,462 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 20:15:50,898 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 20:15:55,720 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 20:15:58,636 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 20:18:52,740 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 20:18:53,179 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 20:18:58,082 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 20:19:00,972 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 20:21:16,112 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 20:21:16,585 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 20:21:24,935 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 20:21:37,737 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 20:21:37,741 - HerokuApp Automation -INFO - Getting back home.
+2025-01-26 20:24:16,597 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-26 20:24:17,024 - HerokuApp Automation -INFO - Starting the application....
+2025-01-26 20:24:21,824 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-26 20:24:35,481 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-26 20:24:35,487 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 16:50:56,137 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 16:50:57,050 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 16:51:03,738 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 16:51:04,232 - HerokuApp Automation -INFO - JavaScript alerts validation failed.
+2025-01-27 16:51:04,288 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 16:52:01,561 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 16:52:02,043 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 16:52:06,943 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 16:52:11,804 - HerokuApp Automation -INFO - JavaScript alerts validation passed.
+2025-01-27 16:52:11,807 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 17:51:56,548 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 17:51:57,134 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 17:52:02,282 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 17:52:02,769 - HerokuApp Automation -INFO - JavaScript onload event error validation failed.
+2025-01-27 17:52:02,780 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 17:52:32,487 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 17:52:32,994 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 17:52:38,274 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 17:52:38,725 - HerokuApp Automation -INFO - JavaScript onload event error validation failed.
+2025-01-27 17:52:38,740 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 17:53:15,295 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 17:53:15,857 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 17:53:20,759 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 17:53:21,237 - HerokuApp Automation -INFO - JavaScript onload event error validation passed.
+2025-01-27 17:53:21,240 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:03:29,905 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:03:30,421 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:03:35,568 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:03:36,012 - HerokuApp Automation -INFO - JavaScript onload event error validation passed.
+2025-01-27 18:03:36,017 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:23:29,709 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:23:30,229 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:23:35,318 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:23:43,911 - HerokuApp Automation -INFO - Key presses validation passed.
+2025-01-27 18:23:43,915 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:26:03,467 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:26:03,975 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:26:09,051 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:26:12,126 - HerokuApp Automation -INFO - Key presses validation passed.
+2025-01-27 18:26:12,128 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:28:31,622 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:28:32,151 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:28:37,445 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:28:40,520 - HerokuApp Automation -INFO - Key presses validation passed.
+2025-01-27 18:28:40,524 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:31:54,006 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:31:54,524 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:31:59,643 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:32:01,907 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:33:08,129 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:33:08,634 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:33:11,450 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:33:15,986 - HerokuApp Automation -INFO - Key presses validation passed.
+2025-01-27 18:33:15,990 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:43:32,146 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:43:32,704 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:43:39,303 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:43:42,005 - HerokuApp Automation -INFO - Multiple windows validation passed.
+2025-01-27 18:43:42,008 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 18:45:22,102 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 18:45:22,650 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 18:45:27,352 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 18:45:28,951 - HerokuApp Automation -INFO - Opened New Window titled - New Window
+2025-01-27 18:45:30,039 - HerokuApp Automation -INFO - Multiple windows validation passed.
+2025-01-27 18:45:30,042 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:02:07,074 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:02:07,537 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:02:13,165 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:02:34,286 - HerokuApp Automation -INFO - Nested frames validation failed.
+2025-01-27 19:02:34,294 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:07:39,586 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:07:40,027 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:07:45,387 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:08:06,565 - HerokuApp Automation -INFO - Nested frames validation failed.
+2025-01-27 19:08:06,573 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:10:11,820 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:10:12,265 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:10:14,917 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:10:38,212 - HerokuApp Automation -INFO - Nested frames validation failed.
+2025-01-27 19:10:38,223 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:13:54,046 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:13:54,516 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:13:59,651 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:14:20,732 - HerokuApp Automation -INFO - Nested frames validation failed.
+2025-01-27 19:14:20,740 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:17:11,481 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:17:11,915 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:17:16,891 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:17:17,970 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:18:05,447 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:18:05,892 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:18:14,157 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:18:15,218 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:19:22,434 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:19:22,881 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:19:27,780 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:19:28,843 - HerokuApp Automation -INFO - Left frame check failed.
+2025-01-27 19:19:28,854 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:24:03,765 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:24:04,208 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:24:09,334 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:24:20,419 - HerokuApp Automation -INFO - Nested frames validation failed.
+2025-01-27 19:24:20,430 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:31:10,252 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:31:10,688 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:31:15,598 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:31:16,635 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:31:16,638 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:32:27,121 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:32:27,586 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:32:32,751 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:32:43,842 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:32:43,845 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:33:48,849 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:33:49,289 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:33:54,967 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:34:06,043 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:34:06,046 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:34:43,806 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:34:44,249 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:34:50,084 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:35:01,179 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:35:01,182 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:36:46,292 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:36:46,724 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:36:51,561 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:37:02,670 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:37:02,674 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 19:58:11,383 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 19:58:11,828 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 19:58:16,769 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 19:58:27,828 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 19:58:27,830 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:00:57,058 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:00:57,499 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:01:03,344 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:01:14,397 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:01:14,399 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:02:04,318 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:02:04,761 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:02:09,692 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:02:20,822 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:02:20,824 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:05:38,781 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:05:39,231 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:05:44,282 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:05:55,463 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:05:55,466 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:06:51,138 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:06:51,592 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:06:57,473 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:06:58,587 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:06:58,589 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:09:48,126 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:09:48,574 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:09:53,587 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:10:04,691 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:10:04,693 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:11:05,185 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:11:05,623 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:11:10,626 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:11:21,688 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:11:21,690 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:13:24,044 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:13:24,487 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:13:29,332 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:13:40,417 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:13:40,420 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:14:59,918 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:15:00,358 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:15:05,392 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:15:06,474 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:15:06,476 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:15:34,942 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:15:35,379 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:15:40,309 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:15:51,414 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:15:51,416 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:17:09,180 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:17:09,618 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:17:14,866 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:17:25,979 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:17:25,981 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:19:15,727 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:19:16,193 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:19:21,270 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:19:32,373 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:19:32,377 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:20:35,831 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:20:36,273 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:20:39,063 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:20:52,368 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:20:52,370 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:23:58,072 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:23:58,552 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:24:03,628 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:24:14,795 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:24:14,798 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:24:45,616 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:24:46,099 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:24:49,098 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:25:02,482 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:25:02,485 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:27:06,697 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:27:07,279 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:27:12,553 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:27:23,712 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:27:23,715 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:29:07,547 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:29:08,091 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:29:13,246 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:34:41,225 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:34:41,232 - HerokuApp Automation -INFO - Getting back home.
+2025-01-27 20:35:06,004 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-27 20:35:06,487 - HerokuApp Automation -INFO - Starting the application....
+2025-01-27 20:35:11,426 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-27 20:35:12,629 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-27 20:35:12,632 - HerokuApp Automation -INFO - Getting back home.
