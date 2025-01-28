@@ -2033,3 +2033,169 @@ Starting the application....
 Initiating HomePage Constructor.
 Nested frames validation passed.
 Getting back home.
+Starting the application....
+Initiating HomePage Constructor.
+AB Testing Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page Message is correct.
+Getting back home.
+Initiating HomePage Constructor.
+AB Testing Page URL is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Add Remove Elements Page Header is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Addition of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Deletion of element is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Basic Auth Page login is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Broken image validation is correct.
+Getting back home.
+Initiating HomePage Constructor.
+Getting back home.
+Initiating HomePage Constructor.
+Check Box validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Context Menu validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Digest Auth Page login is correct.
+Getting back home.
+Initiating HomePage Constructor.
+All buttons presence validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Gallery button validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Initial first element's header is A
+After dragging and dropping the element header is B
+Drag and drop validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Selected option from dropdown list is Option 1
+Dropdown validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Content did not change.
+Dynamic content validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+Dynamic control validation passed.
+Getting back home.
+Initiating HomePage Constructor.
+2025-01-28 18:59:51,489 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Getting back home.
+2025-01-28 19:03:05,786 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Notification messages validation passed.
+Getting back home.
+2025-01-28 19:19:08,567 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Redirect link validation passed.
+Getting back home.
+2025-01-28 19:31:29,937 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+This page returned a 200 status code.
+
+For a definition and common list of HTTP status codes, go here
+Redirect link validation failed.
+Getting back home.
+2025-01-28 19:34:15,195 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+This page returned a 200 status code.
+
+For a definition and common list of HTTP status codes, go here
+This page returned a 301 status code.
+
+For a definition and common list of HTTP status codes, go here
+This page returned a 404 status code.
+
+For a definition and common list of HTTP status codes, go here
+This page returned a 500 status code.
+
+For a definition and common list of HTTP status codes, go here
+Redirect link validation passed.
+Getting back home.
+2025-01-28 19:50:27,677 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Secure file download validation failed.
+Getting back home.
+2025-01-28 19:50:56,774 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Secure file download validation failed.
+Getting back home.
+2025-01-28 19:51:41,801 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Secure file download validation failed.
+Getting back home.
+2025-01-28 20:45:34,892 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Secure file download validation failed.
+Getting back home.
+2025-01-28 20:55:03,934 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Secure file download validation failed.
+Getting back home.
+2025-01-28 20:56:40,194 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+File successfully downloaded kaaar.txt
+File successfully downloaded dummy.txt
+Secure file download validation passed.
+Getting back home.
+2025-01-28 21:12:08,853 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Shadow DOM validation passed.
+Getting back home.
+2025-01-28 21:14:52,895 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Shadow DOM validation passed.
+Getting back home.
