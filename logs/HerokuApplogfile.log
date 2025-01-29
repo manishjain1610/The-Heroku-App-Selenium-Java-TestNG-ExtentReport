@@ -2199,3 +2199,17 @@ For a definition and common list of HTTP status codes, go here
 2025-01-28 21:15:06,434 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
 2025-01-28 21:15:06,907 - HerokuApp Automation -INFO - Shadow DOM validation passed.
 2025-01-28 21:15:06,911 - HerokuApp Automation -INFO - Getting back home.
+2025-01-29 20:12:55,743 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-29 20:12:56,685 - HerokuApp Automation -INFO - Starting the application....
+2025-01-29 20:13:03,348 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-29 20:13:05,433 - HerokuApp Automation -INFO - Shifting content validation passed.
+2025-01-29 20:13:05,436 - HerokuApp Automation -INFO - Getting back home.
+2025-01-29 20:22:21,547 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-29 20:22:21,998 - HerokuApp Automation -INFO - Starting the application....
+2025-01-29 20:22:27,004 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-29 20:22:27,473 - HerokuApp Automation -INFO - Slow resources validation passed.
+2025-01-29 20:22:27,477 - HerokuApp Automation -INFO - Getting back home.

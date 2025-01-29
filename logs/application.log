@@ -2199,3 +2199,17 @@ Starting the application....
 Initiating HomePage Constructor.
 Shadow DOM validation passed.
 Getting back home.
+2025-01-29 20:12:55,743 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Shifting content validation passed.
+Getting back home.
+2025-01-29 20:22:21,547 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Starting the application....
+Initiating HomePage Constructor.
+Slow resources validation passed.
+Getting back home.
