@@ -107,11 +107,117 @@
 					<include name="verifyFloatingMenu"/>
 				</methods>
 			</class>
+			<class name="herokuApp.testcases.HerokuAppForgotPasswordPageTest">
+				<methods>
+					<include name="verifyPasswordRetrieval"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppFormAuthenticationPageTest">
+				<methods>
+					<include name="validateFormAuthentication"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppFramesPageTest">
+				<methods>
+					<include name="verifyNestedFrames"/>
+					<include name="verifyiFrame"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppGeolocationPageTest">
+				<methods>
+					<include name="verifyGeolocationOutput"/>
+				</methods>
+			</class>
 			<class name="herokuApp.testcases.HerokuAppHomePageTest">
 				<methods>
 					<include name="verifyTitle"/>
 					<include name="verifyHeader"/>
 					<include name="landingPage"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppHorizontalSliderPageTest">
+				<methods>
+					<include name="verifyHorizontalSlider"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppHoversPageTest">
+				<methods>
+					<include name="verifyHovers"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppInfiniteScrollPageTest">
+				<methods>
+					<include name="verifyInfiniteScroll"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppInputsPageTest">
+				<methods>
+					<include name="verifyInputs"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppJQueryUIMenuPageTest">
+				<methods>
+					<include name="verifyJQeryUIMenu"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppJSAlertsPageTest">
+				<methods>
+					<include name="verifyJSAlerts"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppJSOnloadEventErrorPageTest">
+				<methods>
+					<include name="verifyJSOnloadEventErrors"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppKeyPressesPageTest">
+				<methods>
+					<include name="verifyKeyPresses"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppMultipleWindowsPageTest">
+				<methods>
+					<include name="verifyMultipleWindows"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppNestedFramesPageTest">
+				<methods>
+					<include name="verifyIndepedentNestedFrames"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppNotificationMessagesPageTest">
+				<methods>
+					<include name="verifyPasswordRetrieval"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppRedirectLinkPageTest">
+				<methods>
+					<include name="verifyRedirectLink"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppSecureFileDownloadPageTest">
+				<methods>
+					<include name="verifySecureFileDownload"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppShadowDOMPageTest">
+				<methods>
+					<include name="verifyShadowDOM"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppShiftingContentPageTest">
+				<methods>
+					<include name="verifyShiftingContent"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppSlowResourcesPageTest">
+				<methods>
+					<include name="verifySlowResources"/>
+				</methods>
+			</class>
+			<class name="herokuApp.testcases.HerokuAppStatusCodesPageTest">
+				<methods>
+					<include name="verifyStatusCodes"/>
 				</methods>
 			</class>
 		</classes>

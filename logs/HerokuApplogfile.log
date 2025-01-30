@@ -2213,3 +2213,1038 @@ For a definition and common list of HTTP status codes, go here
 2025-01-29 20:22:27,004 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
 2025-01-29 20:22:27,473 - HerokuApp Automation -INFO - Slow resources validation passed.
 2025-01-29 20:22:27,477 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 14:57:11,698 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\Manish Jain\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-01-30 14:57:12,604 - HerokuApp Automation -INFO - Starting the application....
+2025-01-30 14:57:19,233 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 14:57:20,182 - HerokuApp Automation -INFO - This page returned a 200 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 14:57:20,698 - HerokuApp Automation -INFO - This page returned a 301 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 14:57:21,180 - HerokuApp Automation -INFO - This page returned a 404 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 14:57:21,656 - HerokuApp Automation -INFO - This page returned a 500 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 14:57:21,676 - HerokuApp Automation -INFO - Status codes validation passed.
+2025-01-30 14:57:21,678 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:28,194 - org.testng.internal.Utils -INFO - [Warning] The regular expression "landingPage" didn't match any method in class herokuApp.testcases.HerokuAppHomePageTest
+2025-01-30 15:11:28,355 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-01-30 15:11:28,367 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-01-30 15:11:28,368 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,369 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,369 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,370 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,370 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,372 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,372 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,372 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,373 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,373 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,374 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,374 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,374 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,375 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,378 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,379 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,380 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,380 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,383 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,384 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,385 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,387 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,387 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,388 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,389 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,389 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,390 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,390 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,391 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,392 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,392 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,393 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,393 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,393 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,394 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,395 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,396 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,396 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,399 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,400 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,401 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,401 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,402 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,402 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,403 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,403 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,403 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,404 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,404 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,404 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,405 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,405 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,406 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,407 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,408 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,408 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,413 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,423 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,426 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,427 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,428 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,430 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,431 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,431 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,432 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,432 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,432 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,432 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,432 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,433 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,433 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,433 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,433 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,433 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,435 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,435 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,436 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,436 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,438 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,438 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,439 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,439 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,440 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,440 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,440 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,440 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,442 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,443 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,444 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,445 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,446 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,446 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,447 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,447 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,448 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,449 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,450 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,450 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,452 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,453 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,454 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,454 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,455 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,455 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,455 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,455 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,460 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,460 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,461 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,461 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,461 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,462 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,462 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,462 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,463 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,463 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,463 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,464 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,466 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,466 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,467 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,467 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,467 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,468 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,468 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,468 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,469 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,469 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,469 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,470 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,470 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,470 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,471 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,471 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,471 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,473 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,474 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,477 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,479 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,480 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,486 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,487 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,492 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,494 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,494 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,495 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,495 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,496 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,497 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,497 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,498 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,498 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,498 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,498 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,499 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,499 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,500 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,501 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,502 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,507 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,508 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,511 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,511 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,512 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,512 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,512 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,513 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,513 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,513 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,513 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,514 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,514 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,514 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,514 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,515 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,516 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,516 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,517 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,518 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,519 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,520 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,521 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,522 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,522 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,522 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,522 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,523 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,524 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,524 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,525 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,526 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,527 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,527 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,528 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,529 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,530 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,530 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,531 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,531 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,531 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,531 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,532 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,533 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,533 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,533 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,534 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,535 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,536 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,538 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,539 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,539 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,540 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,540 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,540 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,540 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,540 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,541 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,542 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,542 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,542 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,543 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,543 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,544 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,546 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,546 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,546 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,547 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,547 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,547 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,547 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,547 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,548 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,549 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-30 15:11:28,549 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,549 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,549 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,551 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,551 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,552 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,552 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,553 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,553 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,553 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,554 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,554 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,554 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,554 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,555 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,555 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,555 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,555 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,555 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,556 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,556 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,557 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,557 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,559 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,559 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,560 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,560 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,560 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,560 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,560 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,561 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,563 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-30 15:11:28,563 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,563 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,563 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,565 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,565 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,565 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,565 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,566 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,567 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,567 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,567 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,568 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,569 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,569 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,570 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,572 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,572 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,574 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,574 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,575 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,576 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,577 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,578 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,579 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,579 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,580 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,581 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,581 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,581 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,581 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,582 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,583 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,585 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,585 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,586 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,586 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,586 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,587 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,588 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,589 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,589 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,590 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,590 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,591 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-30 15:11:28,591 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,591 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,591 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,592 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,593 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,594 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,595 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,595 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,596 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,597 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,598 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,599 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,599 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,599 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,601 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,601 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,601 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,602 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,603 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,604 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,604 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,605 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,606 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,607 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,607 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,607 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,608 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,610 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,610 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,610 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,611 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,612 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,613 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,613 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,613 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,613 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,613 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,614 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,614 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,614 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,614 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,615 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,617 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,617 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,618 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,618 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,618 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,618 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,619 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,619 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,619 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,619 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,619 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,621 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,622 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,622 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,624 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,624 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,625 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,625 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,626 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,626 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,626 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,626 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,626 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,627 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,627 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,627 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,633 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,633 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,637 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,637 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,638 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,640 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,643 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,649 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-01-30 15:11:28,650 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,651 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,652 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,652 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,653 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,653 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,654 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,654 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,655 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,655 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,655 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,656 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,657 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,657 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,657 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,657 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,658 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,658 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,659 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,662 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-30 15:11:28,663 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,664 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,664 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,664 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,665 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,666 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,666 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,666 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,666 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,666 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,667 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,667 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,667 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,668 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,669 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,669 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,669 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,671 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,672 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,672 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,672 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,672 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,672 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,673 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,673 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,674 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,674 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,674 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,676 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,677 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,677 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,678 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,678 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,680 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,681 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,681 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,681 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,681 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,681 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,683 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,684 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,684 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,685 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,685 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,685 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,686 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,687 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,687 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,688 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,688 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,689 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,689 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,689 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,690 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,699 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,700 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,700 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,700 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,701 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,701 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,701 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,701 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,702 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,704 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,704 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,704 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,705 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,706 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,706 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,706 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,706 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,706 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,707 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,707 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,710 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,712 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,713 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,714 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,714 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,714 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,715 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,716 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,716 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,716 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,716 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,716 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,717 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,717 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,718 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,719 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,719 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,721 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,724 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,725 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,725 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,726 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,726 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,726 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,726 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,727 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,727 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,727 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,727 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,727 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,728 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,728 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,729 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,729 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,730 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,731 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,731 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,731 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,731 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,731 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,732 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,732 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,734 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,735 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,735 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,735 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,736 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,739 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-01-30 15:11:28,740 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,741 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,741 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,741 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,741 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,741 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,742 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,742 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,742 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,743 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,743 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,743 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,743 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,744 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,744 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,744 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,744 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,745 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,747 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,747 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,747 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,748 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,749 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,749 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,749 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,749 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,749 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,750 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,750 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,750 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,750 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,751 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,751 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,763 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,763 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,764 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,764 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,764 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,765 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,766 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,766 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,766 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,766 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,766 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,767 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,774 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,775 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,778 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,779 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,779 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,780 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,780 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,781 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,783 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,785 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,789 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,789 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,790 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,791 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,791 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,792 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,792 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,793 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,793 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,794 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,794 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,795 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,796 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,797 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,798 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,798 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,801 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,801 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,802 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,802 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,803 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,804 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,805 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,806 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,806 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,821 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-01-30 15:11:28,821 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,822 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,822 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,826 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-01-30 15:11:28,883 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 56 ms.
+2025-01-30 15:11:28,903 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-30 15:11:28,903 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,920 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2025-01-30 15:11:28,921 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-30 15:11:28,945 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  D:\Manish\IntelliJProjects\tests\The-Heroku-App-Selenium\testng.xml
+
+2025-01-30 15:11:29,436 - HerokuApp Automation -INFO - Starting the application....
+2025-01-30 15:11:37,067 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-01-30 15:11:37,103 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:37,594 - HerokuApp Automation -INFO - AB Testing Page URL is correct.
+2025-01-30 15:11:37,601 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:37,945 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:38,368 - HerokuApp Automation -INFO - AB Testing Page Header is correct.
+2025-01-30 15:11:38,369 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:38,729 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:39,213 - HerokuApp Automation -INFO - AB Testing Page Message is correct.
+2025-01-30 15:11:39,214 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:39,571 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:40,043 - HerokuApp Automation -INFO - Add Remove Elements Page Header is correct.
+2025-01-30 15:11:40,044 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:40,415 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:41,941 - HerokuApp Automation -INFO - Addition of element is correct.
+2025-01-30 15:11:41,942 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:42,422 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:53,018 - HerokuApp Automation -INFO - Deletion of element is correct.
+2025-01-30 15:11:53,020 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:53,368 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:54,748 - HerokuApp Automation -INFO - Basic Auth Page login is correct.
+2025-01-30 15:11:54,750 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:55,102 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:55,825 - HerokuApp Automation -INFO - Broken image validation is correct.
+2025-01-30 15:11:55,826 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:56,165 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:58,420 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:58,780 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:11:59,524 - HerokuApp Automation -INFO - Check Box validation passed.
+2025-01-30 15:11:59,525 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:11:59,865 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:02,467 - HerokuApp Automation -INFO - Context Menu validation passed.
+2025-01-30 15:12:02,469 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:02,824 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:03,896 - HerokuApp Automation -INFO - Digest Auth Page login is correct.
+2025-01-30 15:12:03,898 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:04,244 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:04,756 - HerokuApp Automation -INFO - All buttons presence validation passed.
+2025-01-30 15:12:04,757 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:05,093 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:05,532 - HerokuApp Automation -INFO - Gallery button validation passed.
+2025-01-30 15:12:05,532 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:05,867 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:06,335 - HerokuApp Automation -INFO - Initial first element's header is A
+2025-01-30 15:12:06,627 - HerokuApp Automation -INFO - After dragging and dropping the element header is B
+2025-01-30 15:12:06,642 - HerokuApp Automation -INFO - Drag and drop validation passed.
+2025-01-30 15:12:06,644 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:06,980 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:07,619 - HerokuApp Automation -INFO - Selected option from dropdown list is Option 1
+2025-01-30 15:12:07,648 - HerokuApp Automation -INFO - Dropdown validation passed.
+2025-01-30 15:12:07,649 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:07,994 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:10,601 - HerokuApp Automation -INFO - Content did not change.
+2025-01-30 15:12:10,602 - HerokuApp Automation -INFO - Dynamic content validation passed.
+2025-01-30 15:12:10,606 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:10,947 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:18,107 - HerokuApp Automation -INFO - Dynamic control validation passed.
+2025-01-30 15:12:18,109 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:18,450 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:30,243 - HerokuApp Automation -INFO - Dynamic Loading validation passed.
+2025-01-30 15:12:30,245 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:30,578 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:31,575 - HerokuApp Automation -INFO - Modal window text is - It's commonly used to encourage a user to take an action (e.g., give their e-mail address to sign up for something or disable their ad blocker).
+2025-01-30 15:12:31,684 - HerokuApp Automation -INFO - Entry Ad validation passed.
+2025-01-30 15:12:31,686 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:32,029 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:33,083 - HerokuApp Automation -INFO - Exit intent validation passed.
+2025-01-30 15:12:33,084 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:33,427 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:36,295 - HerokuApp Automation -INFO - File successfully downloaded test3479182885195261750.tmp
+2025-01-30 15:12:38,656 - HerokuApp Automation -INFO - File successfully downloaded test8749759948354562484.tmp
+2025-01-30 15:12:38,657 - HerokuApp Automation -INFO - File download validation passed.
+2025-01-30 15:12:38,658 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:39,011 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:40,813 - HerokuApp Automation -INFO - File upload validation passed.
+2025-01-30 15:12:40,814 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:41,149 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:44,139 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:44,487 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:45,637 - HerokuApp Automation -INFO - Forgot password validation passed.
+2025-01-30 15:12:45,638 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:45,994 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:47,501 - HerokuApp Automation -INFO - Form authentication validation passed.
+2025-01-30 15:12:47,502 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:47,852 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:12:49,358 - HerokuApp Automation -INFO - Nested frame validation passed.
+2025-01-30 15:12:49,360 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:12:49,705 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:01,841 - HerokuApp Automation -INFO - iFrame validation passed.
+2025-01-30 15:13:01,842 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:02,179 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:02,993 - HerokuApp Automation -INFO - Latitude is 28.6405576 and longitude is 77.3526784
+2025-01-30 15:13:03,025 - HerokuApp Automation -INFO - Geolocation validation passed.
+2025-01-30 15:13:03,027 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:03,369 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:03,381 - HerokuApp Automation -INFO - Page Title Is Correct.
+2025-01-30 15:13:03,384 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:03,405 - HerokuApp Automation -INFO - Page Header Is Correct.
+2025-01-30 15:13:03,407 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:09,455 - HerokuApp Automation -INFO - Slider value is 5
+2025-01-30 15:13:09,471 - HerokuApp Automation -INFO - Horizontal slider validation passed.
+2025-01-30 15:13:09,472 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:09,842 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:10,970 - HerokuApp Automation -INFO - First user's name is name: user1
+2025-01-30 15:13:10,986 - HerokuApp Automation -INFO - Hovers validation passed.
+2025-01-30 15:13:10,987 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:11,326 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:14,071 - HerokuApp Automation -INFO - Infinite scroll validation passed.
+2025-01-30 15:13:14,072 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:14,413 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:17,762 - HerokuApp Automation -INFO - Inputs validation passed.
+2025-01-30 15:13:17,763 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:18,117 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:31,949 - HerokuApp Automation -INFO - JQuery UI Menu validation passed.
+2025-01-30 15:13:31,951 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:32,306 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:37,202 - HerokuApp Automation -INFO - JavaScript alerts validation passed.
+2025-01-30 15:13:37,205 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:37,560 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:37,973 - HerokuApp Automation -INFO - JavaScript onload event error validation passed.
+2025-01-30 15:13:37,974 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:38,331 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:39,421 - HerokuApp Automation -INFO - Key presses validation failed.
+2025-01-30 15:13:39,537 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:39,883 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:41,528 - HerokuApp Automation -INFO - Opened New Window titled - New Window
+2025-01-30 15:13:42,598 - HerokuApp Automation -INFO - Multiple windows validation passed.
+2025-01-30 15:13:42,600 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:42,951 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:44,071 - HerokuApp Automation -INFO - Nested frames validation passed.
+2025-01-30 15:13:44,072 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:44,415 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:45,179 - HerokuApp Automation -INFO - Action unsuccesful, please try again
+×
+2025-01-30 15:13:45,211 - HerokuApp Automation -INFO - Notification messages validation passed.
+2025-01-30 15:13:45,212 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:45,562 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:47,322 - HerokuApp Automation -INFO - This page returned a 200 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:13:48,179 - HerokuApp Automation -INFO - This page returned a 301 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:13:49,030 - HerokuApp Automation -INFO - This page returned a 404 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:13:49,874 - HerokuApp Automation -INFO - This page returned a 500 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:13:49,888 - HerokuApp Automation -INFO - Redirect link validation passed.
+2025-01-30 15:13:49,890 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:50,228 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:53,546 - HerokuApp Automation -INFO - File successfully downloaded test3479182885195261750.tmp
+2025-01-30 15:13:56,197 - HerokuApp Automation -INFO - File successfully downloaded test8749759948354562484.tmp
+2025-01-30 15:13:56,198 - HerokuApp Automation -INFO - Secure file download validation passed.
+2025-01-30 15:13:56,199 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:56,551 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:57,037 - HerokuApp Automation -INFO - Shadow DOM validation passed.
+2025-01-30 15:13:57,038 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:57,343 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:13:59,459 - HerokuApp Automation -INFO - Shifting content validation passed.
+2025-01-30 15:13:59,459 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:13:59,805 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:14:00,291 - HerokuApp Automation -INFO - Slow resources validation passed.
+2025-01-30 15:14:00,293 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:14:00,630 - HerokuApp Automation -INFO - Initiating HomePage Constructor.
+2025-01-30 15:14:01,551 - HerokuApp Automation -INFO - This page returned a 200 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:14:01,727 - HerokuApp Automation -INFO - This page returned a 301 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:14:02,184 - HerokuApp Automation -INFO - This page returned a 404 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:14:02,639 - HerokuApp Automation -INFO - This page returned a 500 status code.
+
+For a definition and common list of HTTP status codes, go here
+2025-01-30 15:14:02,652 - HerokuApp Automation -INFO - Status codes validation passed.
+2025-01-30 15:14:02,653 - HerokuApp Automation -INFO - Getting back home.
+2025-01-30 15:14:03,705 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@39403943: 0 ms
